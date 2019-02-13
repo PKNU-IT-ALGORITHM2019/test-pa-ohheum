@@ -1,3 +1,3 @@
-# Test-PA 
-It's a repository just for test.
-This line is written by ohheum.
+# PA-02
+이름: 홍길동
+학번: 20001234
